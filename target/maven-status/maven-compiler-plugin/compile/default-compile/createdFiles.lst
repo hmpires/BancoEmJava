@@ -1,0 +1,6 @@
+br/com/caelum/contas/main/App.class
+br/com/caelum/contas/modelo/Banco.class
+br/com/caelum/contas/main/Principal.class
+br/com/caelum/contas/modelo/Cliente.class
+br/com/caelum/contas/modelo/Data.class
+br/com/caelum/contas/modelo/Conta.class
